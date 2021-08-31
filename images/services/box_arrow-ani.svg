@@ -1,0 +1,10 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" style="">
+<path d="M11.25 25.5H37.7224L33.3371 21.136C32.8478 20.649 32.8459 19.8576 33.3329 19.3682C33.8199 18.8789 34.6114 18.8771 35.1007 19.364L41.6322 25.864C41.6327 25.8644 41.633 25.8648 41.6334 25.8652C42.1214 26.3522 42.123 27.1462 41.6335 27.6348C41.633 27.6352 41.6327 27.6356 41.6324 27.636L35.1009 34.136C34.6116 34.6229 33.8201 34.6212 33.333 34.1317C32.846 33.6424 32.8479 32.851 33.3372 32.364L37.7224 28H11.25C10.5596 28 10 27.4404 10 26.75C10 26.0596 10.5596 25.5 11.25 25.5Z" fill="white" class="LuYKVGVI_0"></path>
+<path width="48" height="48" stroke="url(#paint0_linear)" stroke-width="2" d="M1 1 L49 1 L49 49 L1 49 Z" class="LuYKVGVI_1"></path>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="25" x2="50" y2="25" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E0040B"></stop>
+<stop offset="1" stop-color="#DD1E4B"></stop>
+</linearGradient>
+</defs>
+<style data-made-with="vivus-instant">.LuYKVGVI_0{stroke-dasharray:98 100;stroke-dashoffset:99;animation:LuYKVGVI_draw_0 6800ms linear 0ms infinite,LuYKVGVI_fade 6800ms linear 0ms infinite;}.LuYKVGVI_1{stroke-dasharray:192 194;stroke-dashoffset:193;animation:LuYKVGVI_draw_1 6800ms linear 0ms infinite,LuYKVGVI_fade 6800ms linear 0ms infinite;}@keyframes LuYKVGVI_draw{100%{stroke-dashoffset:0;}}@keyframes LuYKVGVI_fade{0%{stroke-opacity:1;}94.11764705882354%{stroke-opacity:1;}100%{stroke-opacity:0;}}@keyframes LuYKVGVI_draw_0{5.88235294117647%{stroke-dashoffset: 99}35.294117647058826%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes LuYKVGVI_draw_1{20.588235294117645%{stroke-dashoffset: 193}50%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}</style></svg>
